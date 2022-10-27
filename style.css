@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    background-color:gray;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    
+}
+.box
+{
+ background-color: crimson;
+ width: 58vw;
+ height: 45vh;
+ margin: 3px;
+}
+#boxes{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.box-2{
+    background-color: blue;
+    width: 39vw;
+    height: 45vh;
+    display: flex;
+    margin: 2px;
+}
+#boxe{
+   background-color: brown;
+   display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
