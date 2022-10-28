@@ -15,10 +15,10 @@
 }
 .box
 {
- background-color: crimson;
+ background-color:wheat;
  width: 58vw;
  height: 45vh;
- margin: 3px;
+ 
 }
 #boxes{
     background-color: aqua;
@@ -28,16 +28,32 @@
     justify-content: center;
 }
 .box-2{
-    background-color: blue;
     width: 39vw;
     height: 45vh;
     display: flex;
-    margin: 2px;
+    
 }
 #boxe{
-   background-color: brown;
+   background-color:azure;
    display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
+}
+#bxx{
+    background-color:rgb(44, 154, 154);
+    display: flex;
+    flex-direction: column;
+}
+.bxx{
+    background-color: chartreuse;
+    color: cornsilk;
+    width: 160px;
+    height: 30px;
+    border-radius:20px;
+}
+#bx{
+    background-color: rgb(20, 124, 124);
+    display: flex;
+    flex-direction: column;
 }
