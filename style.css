@@ -59,7 +59,7 @@
     width: 200px;
     height: 50px;
     border-radius:20px;
-    margin-top:35px;
+    margin-top:25px;
 }
 #bx{
     background-color: rgb(20, 124, 124);
@@ -70,19 +70,19 @@
     
 }
 .gain{
-    font-size: 25px;
+    font-size: 20px;
     margin: 10px;
 }
 #sud{
     color: beige;
-    font-size:larger;
+    font-size:large;
 }
 #sub{
     color: green;
     font-size: x-large;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 #join{
     font-size: xxx-large;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
